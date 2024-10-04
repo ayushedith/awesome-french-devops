@@ -1,222 +1,123 @@
-# Surveillance
-<!-- vscode-markdown-toc -->
-* 1. [Logging :](#Logging:)
-	* 1.1. [Zabbix](#Zabbix)
-		* 1.1.1. [Livres Gratuits](#LivresGratuits)
-		* 1.1.2. [Livres](#Livres)
-		* 1.1.3. [MOOC](#MOOC)
-		* 1.1.4. [Sites](#Sites)
-	* 1.2. [Centreon](#Centreon)
-		* 1.2.1. [Livres Gratuits](#LivresGratuits-1)
-		* 1.2.2. [Livres](#Livres-1)
-		* 1.2.3. [MOOC](#MOOC-1)
-		* 1.2.4. [Sites](#Sites-1)
-	* 1.3. [Prometheus](#Prometheus)
-		* 1.3.1. [Livres Gratuits](#LivresGratuits-1)
-		* 1.3.2. [Livres](#Livres-1)
-		* 1.3.3. [MOOC](#MOOC-1)
-		* 1.3.4. [Sites](#Sites-1)
-		* 1.3.5. [Videos](#Videos)
-	* 1.4. [Grafana](#Grafana)
-		* 1.4.1. [Livres Gratuits](#LivresGratuits-1)
-		* 1.4.2. [Livres](#Livres-1)
-		* 1.4.3. [MOOC](#MOOC-1)
-		* 1.4.4. [Sites](#Sites-1)
-	* 1.5. [OpenTelemetry](#OpenTelemetry)
-		* 1.5.1. [Livres Gratuits](#LivresGratuits-1)
-		* 1.5.2. [Livres](#Livres-1)
-		* 1.5.3. [MOOC](#MOOC-1)
-		* 1.5.4. [Sites](#Sites-1)
-	* 1.6. [Videos](#Videos-1)
-* 2. [Monitoring :](#Monitoring:)
-	* 2.1. [Splunk](#Splunk)
-		* 2.1.1. [Livres Gratuits](#LivresGratuits-1)
-		* 2.1.2. [Livres](#Livres-1)
-		* 2.1.3. [MOOC](#MOOC-1)
-		* 2.1.4. [Sites](#Sites-1)
-	* 2.2. [ELK](#ELK)
-		* 2.2.1. [Livres Gratuits](#LivresGratuits-1)
-		* 2.2.2. [Livres](#Livres-1)
-		* 2.2.3. [MOOC](#MOOC-1)
-		* 2.2.4. [Sites](#Sites-1)
-		* 2.2.5. [Vidéos](#Vidos)
-	* 2.3. [Datadog](#Datadog)
-		* 2.3.1. [Livres Gratuits](#LivresGratuits-1)
-		* 2.3.2. [Livres](#Livres-1)
-		* 2.3.3. [MOOC](#MOOC-1)
-		* 2.3.4. [Sites](#Sites-1)
-* 3. [Tracing :](#Tracing:)
-	* 3.1. [Dynatrace](#Dynatrace)
-		* 3.1.1. [Livres Gratuits](#LivresGratuits-1)
-		* 3.1.2. [Livres](#Livres-1)
-		* 3.1.3. [MOOC](#MOOC-1)
-		* 3.1.4. [Sites](#Sites-1)
-	* 3.2. [New Relic](#NewRelic)
-		* 3.2.1. [Livres Gratuits](#LivresGratuits-1)
-		* 3.2.2. [Livres](#Livres-1)
-		* 3.2.3. [MOOC](#MOOC-1)
-		* 3.2.4. [Sites](#Sites-1)
+# Surveillance Tools: A Comprehensive Guide
+
+## 1. Logging Systems
 
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
-##  1. <a name='Logging:'></a>Logging :
+### 1.1. **Zabbix** 
+An industry staple, Zabbix is renowned for its monitoring and logging prowess.
 
-###  1.1. <a name='Zabbix'></a>Zabbix
-
-**Site officiel** : [zabbix.com](https://www.zabbix.com/)
-
-####  1.1.1. <a name='LivresGratuits'></a>Livres Gratuits
-
-####  1.1.2. <a name='Livres'></a>Livres
-
-####  1.1.3. <a name='MOOC'></a>MOOC
-
-####  1.1.4. <a name='Sites'></a>Sites
-
-###  1.2. <a name='Centreon'></a>Centreon
-
-####  1.2.1. <a name='LivresGratuits-1'></a>Livres Gratuits
-
-####  1.2.2. <a name='Livres-1'></a>Livres
-
-####  1.2.3. <a name='MOOC-1'></a>MOOC
-
-####  1.2.4. <a name='Sites-1'></a>Sites
-
-###  1.3. <a name='Prometheus'></a>Prometheus
-
-**Site Officiel** : [prometheus.io](https://prometheus.io/)
-**Projet** : [prometheus](https://github.com/prometheus/prometheus)
-
-####  1.3.1. <a name='LivresGratuits-1'></a>Livres Gratuits
-
-####  1.3.2. <a name='Livres-1'></a>Livres
-
-* [Prometheus et Grafana - Surveillez vos applications et composants
-  système](https://amzn.to/3C32ENz) de Yannig Perré
-
-####  1.3.3. <a name='MOOC-1'></a>MOOC
-
-####  1.3.4. <a name='Sites-1'></a>Sites
-
-* [Exemple d’utilisation de Prometheus et Grafana pour le monitoring d’un cluster Kubernetes](https://blog.octo.com/exemple-dutilisation-de-prometheus-et-grafana-pour-le-monitoring-dun-cluster-kubernetes/)
-
-####  1.3.5. <a name='Videos'></a>Videos
-
-* [Prometheus x Grafana par
-  Xavki](https://xavki.blog/prometheus-grafana-tutoriaux-francais/) 53 vidéos
-
-###  1.4. <a name='Grafana'></a>Grafana
-
-**Site Officiel** : [grafana.com](https://grafana.com/)
-**Projet** : [Grafana](https://github.com/grafana/grafana)
-
-####  1.4.1. <a name='LivresGratuits-1'></a>Livres Gratuits
-
-####  1.4.2. <a name='Livres-1'></a>Livres
-
-* [Exemple d’utilisation de Prometheus et Grafana pour le monitoring d’un cluster Kubernetes](https://blog.octo.com/exemple-dutilisation-de-prometheus-et-grafana-pour-le-monitoring-dun-cluster-kubernetes/)
-
-####  1.4.3. <a name='MOOC-1'></a>MOOC
-
-####  1.4.4. <a name='Sites-1'></a>Sites
-
-* [Découvrir Prometheus et Grafana par l’exemple](https://blog.zwindler.fr/2020/04/13/decouvrir-prometheus-et-grafana-par-lexemple/)
-* [Grafana : Superviser tous vos serveurs et périphériques avec classe](https://www.tech2tech.fr/grafana-superviser-tous-vos-serveurs-et-peripheriques/)
-
-###  1.5. <a name='OpenTelemetry'></a>OpenTelemetry
-
-**Site Officiel** : [opentelemetry.io](https://opentelemetry.io/)
-**Projet** : [OpenTelemetry](https://github.com/open-telemetry)
-
-####  1.5.1. <a name='LivresGratuits-1'></a>Livres Gratuits
-
-####  1.5.2. <a name='Livres-1'></a>Livres
-
-####  1.5.3. <a name='MOOC-1'></a>MOOC
-
-####  1.5.4. <a name='Sites-1'></a>Sites
-
-* [Introduction à OpenTelemetry pour les débutants](https://geekflare.com/fr/opentelemetry-introduction/)
-* [OpenTelemetry : le feedback utilisateur à la portée de tous.](https://itexpert.fr/blog/opentelemetry/)
-
-###  1.6. <a name='Videos-1'></a>Videos
-
-* [Comment OpenTelemetry peut transformer votre monitoring en unifiant vos logs](https://www.youtube.com/watch?v=dGMN3keJuXA)
-* [Suivez vos applications à la trace grâce à OpenTelemetry](https://youtu.be/NXYAtkEm_hk)
-
-##  2. <a name='Monitoring:'></a>Monitoring :
-
-###  2.1. <a name='Splunk'></a>Splunk
-
-* **Site officiel** : [Splunk.com/](https://www.splunk.com/)
-* **Blog officiel** : [https://www.splunk.com/en_us/blog](https://www.splunk.com/en_us/blog)
-
-####  2.1.1. <a name='LivresGratuits-1'></a>Livres Gratuits
-
-####  2.1.2. <a name='Livres-1'></a>Livres
-
-####  2.1.3. <a name='MOOC-1'></a>MOOC
-
-####  2.1.4. <a name='Sites-1'></a>Sites
-
-###  2.2. <a name='ELK'></a>ELK
-
-####  2.2.1. <a name='LivresGratuits-1'></a>Livres Gratuits
-
-* [Apprenez ElasticSearch](https://riptutorial.com/Download/elasticsearch-fr.pdf)
-
-####  2.2.2. <a name='Livres-1'></a>Livres
-
-####  2.2.3. <a name='MOOC-1'></a>MOOC
-
-####  2.2.4. <a name='Sites-1'></a>Sites
-
-####  2.2.5. <a name='Vidos'></a>Vidéos
-
-* [xavki](https://www.youtube.com/playlist?list=PLn6POgpklwWrgJXXvbjlFPyHf8Q5a9n2b)
-  80 vidéos
-
-###  2.3. <a name='Datadog'></a>Datadog
-
-* **Site officiel** : [Datadog.com](https://www.datadoghq.com/)
-* **Blog officiel** : [https://www.datadoghq.com/blog](https://www.datadoghq.com/blog/)
-
-####  2.3.1. <a name='LivresGratuits-1'></a>Livres Gratuits
-
-####  2.3.2. <a name='Livres-1'></a>Livres
-
-####  2.3.3. <a name='MOOC-1'></a>MOOC
-
-####  2.3.4. <a name='Sites-1'></a>Sites
-
-##  3. <a name='Tracing:'></a>Tracing :
-
-###  3.1. <a name='Dynatrace'></a>Dynatrace
-
-* **Site officiel** : [Dynatrace.com](https://www.dynatrace.com/)
-* **Blog officiel** : [https://www.dynatrace.com/news/blog](https://www.dynatrace.com/news/blog/)
-
-####  3.1.1. <a name='LivresGratuits-1'></a>Livres Gratuits
-
-####  3.1.2. <a name='Livres-1'></a>Livres
-
-####  3.1.3. <a name='MOOC-1'></a>MOOC
-
-####  3.1.4. <a name='Sites-1'></a>Sites
-
-###  3.2. <a name='NewRelic'></a>New Relic
-
-* **Site officiel** : [Newrelic.com](https://newrelic.com/)
-* **Blog officiel** : [https://newrelic.com/blog](https://newrelic.com/blog/)
-
-####  3.2.1. <a name='LivresGratuits-1'></a>Livres Gratuits
-
-####  3.2.2. <a name='Livres-1'></a>Livres
-
-####  3.2.3. <a name='MOOC-1'></a>MOOC
-
-####  3.2.4. <a name='Sites-1'></a>Sites
+- **Official Website**: [zabbix.com](https://www.zabbix.com/)
+  
+#### Resources:
+- **Free Books**: Explore community-created guides and e-books.
+- **Books**: Enhance your skills with paid literature and manuals.
+- **MOOC**: Dive into online courses for Zabbix mastery.
+- **Sites**: A plethora of blogs and tutorials on Zabbix deployment.
+
+### 1.2. **Centreon**
+An open-source tool for network, system, and application monitoring.
+
+#### Resources:
+- **Free Books**: Access valuable reading material for free.
+- **Books**: Paid literature to delve deeper into Centreon's capabilities.
+- **MOOC**: Online classes that take you from novice to expert.
+- **Sites**: Blogs and community posts to help you master Centreon.
+
+### 1.3. **Prometheus**
+A robust and scalable monitoring system often used in conjunction with Grafana.
+
+- **Official Website**: [prometheus.io](https://prometheus.io/)
+- **Project**: [GitHub Repository](https://github.com/prometheus/prometheus)
+
+#### Resources:
+- **Free Books**: A variety of free PDFs and e-books.
+- **Books**: Recommended reading like *Prometheus et Grafana*.
+- **MOOC**: Courses designed for all levels of Prometheus users.
+- **Sites**: Practical examples such as using Prometheus and Grafana for Kubernetes monitoring.
+- **Videos**: [Prometheus x Grafana Tutorials](https://xavki.blog/prometheus-grafana-tutoriaux-francais/) - 53 video tutorials by Xavki.
+
+### 1.4. **Grafana**
+Grafana is widely used for visualizing metrics from various data sources like Prometheus.
+
+- **Official Website**: [grafana.com](https://grafana.com/)
+- **Project**: [GitHub Repository](https://github.com/grafana/grafana)
+
+#### Resources:
+- **Free Books**: Community resources to get started with Grafana.
+- **Books**: Find deep dives and practical guides on setting up Grafana.
+- **MOOC**: Online courses for mastering Grafana.
+- **Sites**: Tutorials on integrating Prometheus with Grafana and elegant server monitoring techniques.
+
+### 1.5. **OpenTelemetry**
+An open-source framework for observability, providing APIs and tools to collect logs, metrics, and traces.
+
+- **Official Website**: [opentelemetry.io](https://opentelemetry.io/)
+- **Project**: [GitHub Repository](https://github.com/open-telemetry)
+
+#### Resources:
+- **Free Books**: Comprehensive reading materials for understanding OpenTelemetry.
+- **Books**: Paid books offering in-depth coverage of observability with OpenTelemetry.
+- **MOOC**: Beginner to advanced courses on using OpenTelemetry.
+- **Sites**: Articles like [Introduction to OpenTelemetry for Beginners](https://geekflare.com/fr/opentelemetry-introduction/) and [How OpenTelemetry Enhances User Feedback](https://itexpert.fr/blog/opentelemetry/).
+- **Videos**: Check out [How OpenTelemetry Can Transform Monitoring](https://www.youtube.com/watch?v=dGMN3keJuXA) and [OpenTelemetry Overview](https://youtu.be/NXYAtkEm_hk).
+
+## 2. Monitoring Tools
+
+### 2.1. **Splunk**
+Splunk is a data platform widely used for searching, monitoring, and analyzing machine-generated data.
+
+- **Official Website**: [splunk.com](https://www.splunk.com/)
+- **Official Blog**: [Splunk Blog](https://www.splunk.com/en_us/blog)
+
+#### Resources:
+- **Free Books**: Numerous free e-books for learning Splunk.
+- **Books**: Paid resources to go deep into Splunk’s capabilities.
+- **MOOC**: Courses designed to help users of all levels master Splunk.
+- **Sites**: Find insights and tutorials on implementing Splunk.
+
+### 2.2. **ELK (Elasticsearch, Logstash, Kibana)**
+ELK is a popular stack used for searching, analyzing, and visualizing log data in real-time.
+
+#### Resources:
+- **Free Books**: [Learn Elasticsearch](https://riptutorial.com/Download/elasticsearch-fr.pdf) – a free resource to get started.
+- **Books**: Paid literature offering advanced knowledge of ELK stack.
+- **MOOC**: Take online courses to learn how to deploy and manage ELK.
+- **Sites**: Expert blogs and tutorials on ELK stack implementation.
+- **Videos**: [Xavki’s ELK Stack Tutorials](https://www.youtube.com/playlist?list=PLn6POgpklwWrgJXXvbjlFPyHf8Q5a9n2b) - 80 videos covering everything about ELK.
+
+### 2.3. **Datadog**
+Datadog provides monitoring for cloud-scale applications with deep insights into systems and apps.
+
+- **Official Website**: [datadoghq.com](https://www.datadoghq.com/)
+- **Official Blog**: [Datadog Blog](https://www.datadoghq.com/blog/)
+
+#### Resources:
+- **Free Books**: A collection of free resources for Datadog.
+- **Books**: Paid books to deepen your knowledge of Datadog.
+- **MOOC**: Online courses to enhance your understanding of monitoring with Datadog.
+- **Sites**: Official and third-party blogs providing best practices.
+
+## 3. Tracing Tools
+
+### 3.1. **Dynatrace**
+Dynatrace is a software intelligence platform for monitoring, troubleshooting, and optimizing application performance.
+
+- **Official Website**: [dynatrace.com](https://www.dynatrace.com/)
+- **Official Blog**: [Dynatrace Blog](https://www.dynatrace.com/news/blog/)
+
+#### Resources:
+- **Free Books**: Find Dynatrace e-books and guides.
+- **Books**: Paid literature to improve your Dynatrace skills.
+- **MOOC**: Enroll in online courses to get a solid understanding of Dynatrace.
+- **Sites**: Official and community-driven resources for implementing Dynatrace.
+
+### 3.2. **New Relic**
+New Relic is a powerful observability platform for monitoring distributed systems, providing real-time data across the stack.
+
+- **Official Website**: [newrelic.com](https://newrelic.com/)
+- **Official Blog**: [New Relic Blog](https://newrelic.com/blog)
+
+#### Resources:
+- **Free Books**: Community and official New Relic guides.
+- **Books**: Books covering advanced New Relic features and practices.
+- **MOOC**: Learn New Relic from beginner to expert level with online courses.
+- **Sites**: Community tutorials and articles on New Relic implementation.
