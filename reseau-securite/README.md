@@ -1,17 +1,17 @@
-# Réseaux et Sécurité Informatique
+# Networks and Computer Security
 
-C'est un sujet souvent bypasser, mais au combien important.
+This is a topic often overlooked but highly important.
 
 <!-- vscode-markdown-toc -->
-* 1. [Réseaux](#Rseaux)
-	* 1.1. [Livres gratuits](#Livresgratuits)
-	* 1.2. [Livres](#Livres)
-	* 1.3. [MOOC](#MOOC)
-* 2. [Sécurité](#Scurit)
-	* 2.1. [Sites](#Sites)
-	* 2.2. [Livres gratuits](#Livresgratuits-1)
-	* 2.3. [Livres](#Livres-1)
-	* 2.4. [MOOC](#MOOC-1)
+* 1. [Networks](#Networks)
+	* 1.1. [Free Books](#FreeBooks)
+	* 1.2. [Books](#Books)
+	* 1.3. [MOOCs](#MOOCs)
+* 2. [Security](#Security)
+	* 2.1. [Websites](#Websites)
+	* 2.2. [Free Books](#FreeBooks-1)
+	* 2.3. [Books](#Books-1)
+	* 2.4. [MOOCs](#MOOCs-1)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -19,35 +19,35 @@ C'est un sujet souvent bypasser, mais au combien important.
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
-##  1. <a name='Rseaux'></a>Réseaux
+##  1. <a name='Networks'></a>Networks
 
-###  1.1. <a name='Livresgratuits'></a>Livres gratuits
+###  1.1. <a name='FreeBooks'></a>Free Books
 
-###  1.2. <a name='Livres'></a>Livres
+###  1.2. <a name='Books'></a>Books
 
-* [Réseaux 6e édition](https://amzn.to/3dWVQJs) de Andrew Tanenbaum
+* [Computer Networks, 6th Edition](https://amzn.to/3dWVQJs) by Andrew Tanenbaum
 
-###  1.3. <a name='MOOC'></a>MOOC
+###  1.3. <a name='MOOCs'></a>MOOCs
 
-[Les Réseaux Locaux](https://www.fun-mooc.fr/fr/cours/les-reseaux-locaux/)
+* [Local Area Networks](https://www.fun-mooc.fr/fr/cours/les-reseaux-locaux/)
 
-##  2. <a name='Scurit'></a>Sécurité
+##  2. <a name='Security'></a>Security
 
-###  2.1. <a name='Sites'></a>Sites
+###  2.1. <a name='Websites'></a>Websites
 
-* [Les bonnes pratiques de L'ANSSI](https://www.ssi.gouv.fr/particulier/bonnes-pratiques/) C'est rempli de recueils.
+* [ANSSI Best Practices](https://www.ssi.gouv.fr/particulier/bonnes-pratiques/) - A collection of good security practices.
 
-###  2.2. <a name='Livresgratuits-1'></a>Livres gratuits
+###  2.2. <a name='FreeBooks-1'></a>Free Books
 
-###  2.3. <a name='Livres-1'></a>Livres
+###  2.3. <a name='Books-1'></a>Books
 
-* [Sécurité informatique - Ethical Hacking : Apprendre l'attaque pour mieux se défendre](https://amzn.to/3uwPIvZ)
-* [Sécurité informatique: Cours et exercices corrigés](https://amzn.to/3VIaeWz)
-* [Sécurité informatique sur le web - Apprenez à sécuriser vos applications (management, cybersécurité, développement et opérationnel)](https://amzn.to/3UJODLU)
+* [Ethical Hacking: Learn to Attack to Defend Better](https://amzn.to/3uwPIvZ)
+* [Computer Security: Course and Exercises](https://amzn.to/3VIaeWz)
+* [Web Security: Learn to Secure Your Applications (Management, Cybersecurity, Development, and Operations)](https://amzn.to/3UJODLU)
 
-###  2.4. <a name='MOOC-1'></a>MOOC
+###  2.4. <a name='MOOCs-1'></a>MOOCs
 
-*[Découvrez les bases de la sécurité numérique](https://openclassrooms.com/fr/courses/5870206-decouvrez-les-bases-de-la-securite-numerique)
-* [Sécurisez vos applications web avec l'OWASP](https://openclassrooms.com/fr/courses/6179306-securisez-vos-applications-web-avec-lowasp)
-* [Sécurisez vos infrastructures](https://openclassrooms.com/fr/courses/1761876-securisez-vos-infrastructures)
-* [Réalisez un test d'intrusion WEB](https://openclassrooms.com/fr/courses/1761876-securisez-vos-infrastructures)
+* [Learn the Basics of Digital Security](https://openclassrooms.com/en/courses/5870206-decouvrez-les-bases-de-la-securite-numerique)
+* [Secure Your Web Applications with OWASP](https://openclassrooms.com/en/courses/6179306-securisez-vos-applications-web-avec-lowasp)
+* [Secure Your Infrastructure](https://openclassrooms.com/en/courses/1761876-securisez-vos-infrastructures)
+* [Perform a Web Penetration Test](https://openclassrooms.com/en/courses/1761876-securisez-vos-infrastructures)
